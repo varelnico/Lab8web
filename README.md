@@ -1,10 +1,9 @@
 # LAB 8 WEB - PHP DAN DATABASE MYSQL
 
-## Identitas
-- Nama: Fachmi Amrullah
-- NIM: (312510246)
-- Kelas: I251B
-- Mata Kuliah: Pemrograman Web
+### Nama  : Varel Nico Ramadhan
+### NIM   : 312510156
+### Kelas : I251B
+
 
 ## 1. Persiapan Praktikum
 
